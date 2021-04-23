@@ -4,4 +4,4 @@
 - 🔸: build upon position: '**fixed**' css property instead of '**sticky**' to support all browsers.
 - 🔸: you can customize all navbar styles freely. **top** property is **automatically** calculated with JS.
 
-### please feel free to contribute ###
+### please feel free to contribute 😅###
